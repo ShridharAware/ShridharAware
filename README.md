@@ -1,26 +1,46 @@
-# Hi there! 👋
+# Hi there! 👋 I'm Shridhar Aware
 
-## About Me
+### Software Development Engineer | Full Stack Developer | AI Enthusiast
 
-I'm Shridhar Aware, a final year student pursuing a Bachelor of Technology in Computer Science and Engineering. I'm passionate about leveraging technology to build innovative solutions. My journey in the world of software development has equipped me with a diverse skill set and a thirst for knowledge.
+I'm a Software Development Engineer with **2+ years of experience** building modern, scalable web applications and backend services. I primarily work with the **MERN stack** and have been expanding my expertise in **AI, LLMs, and Agentic AI**.
 
-## Skills
+### 🛠️ Tech Stack
 
-- **Full Stack Development**: Proficient in MERN stack (MongoDB, Express.js, React.js, Node.js) with hands-on experience in developing robust web applications.
-- **Programming Languages**: Skilled in C, C++, Java, and Python, with a solid understanding of their principles and best practices.
-- **Machine Learning**: Fascinated by the potential of machine learning, I'm keen on exploring its applications and algorithms.
-- **Data Structures**: Well-versed in fundamental data structures and algorithms, crucial for building efficient software solutions.
+**Languages:**  
+JavaScript · TypeScript · Python · Java
 
-## Projects
+**Frontend:**  
+React.js · Redux Toolkit · Tailwind CSS · Material UI · HTML · CSS
 
-Here are a few projects I've worked on:
+**Backend:**  
+Node.js · Express.js · FastAPI · REST APIs · JWT
 
-1. **Phishing URL Detection** - A web based machine learning application that can help in finding malicious websites.
-2. **Heart Disease Prediction** - A web based machine learning application that can be used to predict heart condition based on parameters like blood pressure, age, chest pain, gender, etc.
-3. **Student Information System** - A web based full stack application that can be used as information system for students and teachers where teachers and students can interact and share grades announcements and mark attendance.
+**AI / LLM:**  
+LangChain · LangGraph · MCP · FastMCP · LiteLLM · RAG · Ollama · Qdrant
 
-## Get in Touch
+**Database:**  
+MongoDB · MySQL
 
-I'm always open to collaboration and new opportunities. Feel free to reach out to me via email at [ashridhar19@gmail.com](mailto:ashridhar19@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shridhar-aware-b04693213/).
+**DevOps & Tools:**  
+Docker · NGINX · Jenkins · Git · GitHub · Linux · CI/CD
 
-Let's connect and build something amazing together!
+**IoT & Embedded:**  
+MQTT · ESP32 · ESP8266 · Arduino · Raspberry Pi
+
+### 📌 Currently Exploring
+
+- 🤖 Agentic AI & LLM Applications
+- 🔗 MCP & AI Tool Integration
+- 🧠 RAG & Vector Databases
+- ⚡ Scalable Backend Systems
+- 💻 Full Stack Application Development
+
+### 📫 Connect With Me
+
+📧 [Email](mailto:ashridhar19@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/shridhar-aware-b04693213/)  
+💻 [GitHub](https://github.com/)
+
+---
+
+**Always learning. Always building. 🚀**
